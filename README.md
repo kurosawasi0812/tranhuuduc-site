@@ -1,4 +1,4 @@
-# Trần Hữu Dực — Bước qua đầu thù
+# Trần Hữu Dực — Cuộc đời và sự nghiệp cách mạng
 
 Trang web tĩnh dạng scrollytelling/editorial, giữ bảng màu và tinh thần trình bày của mẫu `trieu_phong/index.html` mà người dùng cung cấp, nhưng thay toàn bộ nội dung sang tư liệu về đồng chí Trần Hữu Dực.
 
@@ -29,3 +29,7 @@ Upload toàn bộ nội dung thư mục này vào repository. Bật GitHub Pages
 ## Ghi chú
 
 Đây là một trang trình bày/diễn giải nội dung, không phải bản sao nguyên văn của tài liệu. Những câu trích dẫn ngắn được giữ theo văn bản nguồn để phục vụ trình bày nội dung.
+
+
+## Biên tập nội dung
+Trang tập trung giới thiệu Trần Hữu Dực, cuộc đời, quá trình hoạt động cách mạng và sự nghiệp công tác. “Bước qua đầu thù” chỉ được giới thiệu như một phần tư liệu ở gần cuối trang, theo yêu cầu biên tập.
